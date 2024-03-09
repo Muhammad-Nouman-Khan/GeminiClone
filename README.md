@@ -1,6 +1,6 @@
 # Gemini Clone
 
-npm install
+npm install <br>
 npm install @google/generative-ai
 
 # React + Vite
